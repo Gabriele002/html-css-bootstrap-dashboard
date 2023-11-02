@@ -11,3 +11,24 @@
 .bg-nav{
     background-color:rgb(33, 37, 41);
 }
+
+.table-whidht-70{
+    width: 70%;
+}
+
+.small-button{
+    font-size: x-small;
+}
+
+.icone{
+    border: solid ;
+    border-radius: 20%;
+    color: rgb(117, 141, 141);
+    
+}
+
+.bg{
+    background-color: rgb(242, 242, 242);
+}
+
+
